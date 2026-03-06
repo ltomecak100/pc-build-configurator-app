@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treca_zadaca", "Treca_zadaca\Treca_zadaca.csproj", "{59699D6F-AF69-4839-AEEC-85262DFB8520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59699D6F-AF69-4839-AEEC-85262DFB8520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59699D6F-AF69-4839-AEEC-85262DFB8520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59699D6F-AF69-4839-AEEC-85262DFB8520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59699D6F-AF69-4839-AEEC-85262DFB8520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E47544C-1438-49DB-BF28-2A0958AA6DC0}
+	EndGlobalSection
+EndGlobal
