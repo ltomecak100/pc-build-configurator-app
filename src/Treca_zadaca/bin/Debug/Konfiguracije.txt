@@ -1,0 +1,26 @@
+﻿Gaming PC
+AMD Ryzen 9 7950X,CPU,AMD,720.5
+NVIDIA RTX 3000,Grafika kartica,NVIDIA,359.99
+RAM Z8 32 GB,RAM,Kingston,120
+ASUS ROG Strix Z7,Matična ploča,ASUS,350
+Napajanje V6,Napajanje,Corsair,90
+NZXT H510,Kućište,NZXT,70
+Tipkovnica V2,Tipkovnica,Logitech,80
+Miš Phraser,Miš,Redragon,45
+Monitor T3,Monitor,LG,300
+------------------------------------------------------
+Ukupna cijena= 720.5 + 359.99 + 120 + 350 + 90 + 70 + 80 + 45 + 300 = 2135.49 eura
+------------------------------------------------------
+
+Uredski PC
+Intel Core i5,Procesor,Intel,250
+Corsair Vengeance,RAM,Corsair,85
+Matična P5,Matična ploča,ASUS,180
+Napajanje V6,Napajanje,Corsair,90
+NZXT H510,Kućište,NZXT,70
+Skenner I1,Skenner,Canon,150
+Kamera D2,Web kamera,Logitech,90
+Memorijska kartica A1,Memorijska kartica,SanDisk,35
+------------------------------------------------------
+Ukupna cijena= 250 + 85 + 180 + 90 + 70 + 150 + 90 + 35 = 950 eura
+------------------------------------------------------
